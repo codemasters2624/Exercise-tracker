@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Exercise-tracker
+A simple exercise tracking software made using MERN stack.
+
+For new people, MERN stack is a technology stack made of (M)ongo, (E)xpress, (R)eact, (N)odeJS.
+This exercise tracker is made using NodeJS and Express for backend while React for frontend. For database, I will use Mongo initially but I will also make another code for using MySQL. This way, I can cover both SQL and NoSQL databases. I will also provide links to the resources I will use in this project. This project may initially be similar to many other projects and tutorials, but over time, I also plan to add newer technologies such as tokenization for authorization etc.
+>>>>>>> 7a649da22332813a851df7a756c7a5300ae08b40
